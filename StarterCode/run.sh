@@ -1,0 +1,1 @@
+FLASK_APP=Skin_Bacteria_Biodiversity/app.py flask run
